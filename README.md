@@ -10,8 +10,6 @@ Bu Bir Eğitim Serisi Gibi Olacağından Bu Şekilde Adım Adım İlerlememiz Da
 
 Projemizin Adına Borsa diyorum
 
-
-
 1.Yeni Proje Aç
 2.Tasarımı Ayarla
 3.Design Pattern Kullan
