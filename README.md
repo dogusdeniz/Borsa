@@ -11,12 +11,19 @@ Bu Bir Eğitim Serisi Gibi Olacağından Bu Şekilde Adım Adım İlerlememiz Da
 Projemizin Adına Borsa diyorum
 
 1.Yeni Proje Aç
+
 2.Tasarımı Ayarla
+
 3.Design Pattern Kullan
+
 4.Kalıpları Tasarıma Uygula
+
 5.Veri Tabanı Bağla
+
 6.Projeyi Test Et
+
 7.Entegrasyon
+
 
 1. Aşama Tamamdır şimdi 2. Aşamaya Geçiyoruz
 Renk seçimi konusunda size yardımcı olabilecek bir platformdur adobe color
